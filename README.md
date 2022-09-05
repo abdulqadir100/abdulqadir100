@@ -5,23 +5,19 @@
 [![Become A Security Operations SuperHero](https://img.shields.io/badge/-Become%20A%20Security%20Operations%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)]()
 
 
-## I'm a Cybersecurity Professional, Infrastructure Engineeer, and Teacher!!
+## I'm a Data Engineer , Machine Learning Engineer, and Teacher!!
 
-- 🔭 Interested in Cybersecurity - Security Operations & Engineering
+- 🔭 Interested in Data Engineering and Machine Learning 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with others in the Tech and Cybersecurity space
-- 🥅 2022 Goals: Simplifying Cybersecurity Implementation for Organizations.
+- 👯 I’m looking to collaborate with others in Tech,  Data and A.I space
+- 🥅 2022 Goals: Building scalable Data Engineering Pipeline and ML models with low latency
 - ⚡ Fun fact: Love Playing Scrabble, Speaking is Fun, Purveyor of Personal Development.
 - 😻 
 
 ### Where I've Been
-- 🏫 Innopolis University -
-- 🌐 CyberPlural MSSP | Lead, Cybersecurity Engineering
-- 🌐 vCISO for X, Y and Z.
-- 🏧 [REDACTED] Intel 💰 | 🅿 SME, Security Engineering & Threat Intelligence.
-- 🏠 Co-Creation Hub - CcHub |  Cybersecurity Auditor 
-- 🌐 CyberDome | Security Analyst & Lead, Security Engineer.
-- 🏫 Federal University of Technology Minna | B.Tech, Cybersecurity Science
+- 🌐 AFEX |  Data Engineer
+- 🌐 Borderless-Incubator | Lead Data Science Instructor
+- 🏫 Federal University of Technology Minna | B.Eng, Mechatronics Engineering
 - 🎓 Federal Polytechnic Offa | ND, Computer Technology Engineering.
 
 ### Connect with me:
