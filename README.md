@@ -29,14 +29,15 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Windows" width="26px" src="https://commons.wikimedia.org/wiki/File:Apache_Spark_logo.svg" style="padding-right:10px;" />
-<img align="left" alt="VSCode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Windows" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" style="padding-right:10px;" />
+<img align="left" alt="VSCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" style="padding-right:10px;" />
 <img align="left" alt="ps" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
 <img align="left" alt="kali" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="azure" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original.svg" style="padding-right:10px;" />
 <img align="left" alt="linux" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" style="padding-right:10px;" />
-<img align="left" alt="python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />
+
 <img align="left" alt="putty" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/putty/putty-original.svg" style="padding-right:10px;" />
 <img align="left" alt="vmware" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" style="padding-right:10px;" />
 <!--
