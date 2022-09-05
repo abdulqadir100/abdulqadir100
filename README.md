@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=Zindi-Africa&style=for-the-badge&url=https%3A%2F%2FZindi.africa)](https://zindi.africa/users/_herolevel)
 [![Website](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https%3A%2F%2FZindi.africa)](https://www.linkedin.com/in/abdulqadri-afolabi-6b095b13b/)
-[![Li Follow](https://img.shields.io/badge/Apache_Spark-034550?style=for-the-badge&logo=apachespark&logoColor=#E35A16?color=1DA1F2&logo=twitter&style=for-the-badge)]
+[![Li Follow](https://img.shields.io/badge/Apache_Spark-034550?style=for-the-badge&logo=apachespark&logoColor=#E35A16?color=1DA1F2&logo=twitter&style=for-the-badge)]()
 
 
 
