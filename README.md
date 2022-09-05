@@ -23,10 +23,9 @@
 ### Connect with me:
 [![website](./img/globe-light.svg)](https://zindi.africa/users/_herolevel#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://zindi.africa/users/_herolevel#gh-dark-mode-only)
-&nbsp;&nbsp;
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/password-ng/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/password-ng/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/abdulqadri-afolabi-6b095b13b/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/abdulqadri-afolabi-6b095b13b/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/password_ng#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/password_ng#gh-dark-mode-only)
