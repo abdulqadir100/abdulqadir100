@@ -36,8 +36,8 @@
 <img align="left" alt="CSS3" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
 <img align="left" alt="azure" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Sklearn" width="60px" src="https://commons.wikimedia.org/wiki/File:Scikit_learn_logo.svg" style="padding-right:10px;" />
-<img align="left" alt="keras" width="60px" src="https://commons.wikimedia.org/wiki/File:Keras_logo.svg" style="padding-right:10px;" />
+<img align="left" alt="Sklearn" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="padding-right:10px;" />
+<img align="left" alt="keras" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" style="padding-right:10px;" />
 
 <!--
 <img align="left" alt="nessus" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Nessus-Professional-FullColor-RGB.svg" style="padding-right:10px;" />
