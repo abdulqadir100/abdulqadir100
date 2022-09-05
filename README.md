@@ -54,36 +54,6 @@
 <br />
 <br />
 
----
-
-### 📺 Projects
-
-<!-- PROJECTS:START -->
-- [Whitehat.NG -Pushing for Responsible Disclosure in Nigeria](https://www.whitehat.ng/)
-- [CyberTalkNaija - Tracking the Nigeria Cybersecurity Ecosystem](https://www.cybertalknaija.com/)
-- [CybersecFill - Cybersecuirty Blog](https://cybersecfill.com/)
-- [Cybersecurity Virtual Lab - Virtual SOC]()
-<!-- PROJECTS:END -->
-
-➡️ [more projects...]()
-
----
-### Talks 🎤
-- [CyberSecureNigeria Conference 2022 CSEAN -  Virtual Societal Warfare (VSW) – Mitigating Election Hacking ]()
-- [Cybersecurity Forum and Workshop 2.0 NCS - Cyber Threat Intelligence (CTI): Tools and Applications ]()
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [COVID-19: Security in the Wake of a New Work Order](https://cybersecfill.com/covid-19-security-in-the-wake-working-from-home)
-- [Darknet: Source of Actionable Intelligence](https://cybersecfill.com/darknet-for-actionable-intelligence/)
-- [A Decade of Cybersecurity In Nigeria](https://cybersecfill.com/a-decade-of-cybersecurity-in-nigeria/)
-- [Understanding Cyber Kill Chain – Adversary Needs an Insider](https://cybersecfill.com/understanding-cyber-kill-chain-adversary-needs-an-insider/)
-- [Cybersecurity Risk in Supply Chain Management](https://cybersecfill.com/cybersecurity-risk-in-supply-chain/)
-- [A Review of the Nigeria National Cybersecurity Strategy - 2014](https://cybersecfill.com/nigeria-cybersecurity-strategy/)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://passwordng.github.io/)
 
 ---
 
