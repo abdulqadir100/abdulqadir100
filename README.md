@@ -30,16 +30,15 @@
 ### Languages and Tools:
 
 <img align="left" alt="python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Windows" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" style="padding-right:10px;" />
-<img align="left" alt="VSCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" style="padding-right:10px;" />
-<img align="left" alt="ps" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png" style="padding-right:10px;" />
+<img align="left" alt="Spark" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" style="padding-right:10px;" />
+<img align="left" alt="Postgres" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" style="padding-right:10px;" />
+<img align="left" alt="putty" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Apache_kafka_wordtype.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
-<img align="left" alt="kali" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="azure" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original.svg" style="padding-right:10px;" />
-<img align="left" alt="linux" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="putty" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/putty/putty-original.svg" style="padding-right:10px;" />
-<img align="left" alt="vmware" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" style="padding-right:10px;" />
+<img align="left" alt="Sklearn" width="60px" src="https://commons.wikimedia.org/wiki/File:Scikit_learn_logo.svg" style="padding-right:10px;" />
+<img align="left" alt="keras" width="60px" src="https://commons.wikimedia.org/wiki/File:Keras_logo.svg" style="padding-right:10px;" />
+
 <!--
 <img align="left" alt="nessus" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Nessus-Professional-FullColor-RGB.svg" style="padding-right:10px;" />
 <img align="left" alt="sophos" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Sophos_logo2.svg" style="padding-right:10px;" />
