@@ -29,20 +29,20 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="python" width="46px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Spark" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" style="padding-right:10px;" />
 <img align="left" alt="Postgres" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" style="padding-right:10px;" />
 <img align="left" alt="putty" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Apache_kafka_wordtype.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
 <img align="left" alt="azure" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Sklearn" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="padding-right:10px;" />
+<img align="left" alt="Sklearn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="padding-right:10px;" />
 <img align="left" alt="keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" style="padding-right:10px;" />
 
 <!--
 <img align="left" alt="nessus" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Nessus-Professional-FullColor-RGB.svg" style="padding-right:10px;" />
 <img align="left" alt="sophos" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Sophos_logo2.svg" style="padding-right:10px;" />
-<img align="left" alt="Virustotal" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/CrowdStrike_logo.svg" style="padding-right:10px;" />
+<img align="left" alt="Virustotal" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/CrowdStrike_logo.svg" style="padding-right:10px;" />
 <img align="left" alt="sophos" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/b/b7/VirusTotal_logo.svg" style="padding-right:10px;" />
 
 
