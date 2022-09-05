@@ -1,4 +1,4 @@
-# Hi there, I'm Abdulqadir 😁😎 👋 
+# Hi there, I'm Abdulqadir 😎 👋 
 
 [![Website](https://img.shields.io/website?label=Zindi-Africa&style=for-the-badge&url=https%3A%2F%2FZindi.africa)](https://zindi.africa/users/_herolevel)
 [![Website](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https%3A%2F%2FZindi.africa)](https://www.linkedin.com/in/abdulqadri-afolabi-6b095b13b/)
@@ -17,9 +17,8 @@
 
 ### Where I've Been
 - 🌐 AFEX |  Data Engineer
-- 🌐 Borderless-Incubator | Lead Data Science Instructor
+- 🌐 Borderless-Incubator | Community Lead
 - 🏫 Federal University of Technology Minna | B.Eng, Mechatronics Engineering
-- 🎓 Federal Polytechnic Offa | ND, Computer Technology Engineering.
 
 ### Connect with me:
 [![website](./img/globe-light.svg)](https://zindi.africa/users/_herolevel#gh-light-mode-only)
