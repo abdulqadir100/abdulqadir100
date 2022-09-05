@@ -21,13 +21,10 @@
 - 🎓 Federal Polytechnic Offa | ND, Computer Technology Engineering.
 
 ### Connect with me:
+[![website](./img/globe-light.svg)](https://zindi.africa/users/_herolevel#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://zindi.africa/users/_herolevel#gh-dark-mode-only)
+&nbsp;&nbsp;
 
-[![website](./img/globe-light.svg)](https://passwordng.github.io#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://passwordng.github.io#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/password_ng#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/password_ng#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/password-ng/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/password-ng/#gh-dark-mode-only)
 &nbsp;&nbsp;
