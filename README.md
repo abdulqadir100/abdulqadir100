@@ -1,8 +1,7 @@
 # Hi there, I'm Abdulqadir 😁😎 👋 
 
 [![Website](https://img.shields.io/website?label=Zindi-Africa&style=for-the-badge&url=https%3A%2F%2FZindi.africa)](https://zindi.africa/users/_herolevel)
-[![Li Follow](https://img.shields.io/twitter/follow/password_ng?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpassword_ng&screen_name=PASSWORD_NG)
-[![Zindi-Africa](https://img.shields.io/badge/-Become%20A%20Security%20Operations%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)]()
+[![Li Follow](https://img.shields.io/badge/Apache_Spark-034550?style=for-the-badge&logo=apachespark&logoColor=#E35A16?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpassword_ng&screen_name=PASSWORD_NG)
 
 
 ## I'm a Data Engineer , Machine Learning Engineer, and I love building Tech Communities!!
