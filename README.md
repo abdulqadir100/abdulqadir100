@@ -29,7 +29,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="python" width="46px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="python" width="36px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Spark" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" style="padding-right:10px;" />
 <img align="left" alt="Postgres" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" style="padding-right:10px;" />
 <img align="left" alt="putty" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Apache_kafka_wordtype.svg" style="padding-right:10px;" />
