@@ -11,7 +11,7 @@
 - 🔭 Interested in Data Engineering and Machine Learning 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others in Tech,  Data and A.I space
-- 🥅 2022 Goals: Building scalable Data Engineering Pipeline and ML models with low latency
+- 🥅 2022 Goals: Developing scalable Data Engineering Pipelines and Machine Learning models with low latency
 - ⚡ Fun fact: Love Playing Scrabble, Speaking is Fun, Purveyor of Personal Development.
 - 😻 I love building tech communities
 
